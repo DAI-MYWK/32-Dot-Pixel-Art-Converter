@@ -1,4 +1,4 @@
-# 32-Dot Pixel Art Converter
+# 32-Dot Pixel Art Converter.
 
 JPEGまたはPNG画像を32×32ドットのピクセルアートに変換するシンプルなウェブアプリケーションです。
 
